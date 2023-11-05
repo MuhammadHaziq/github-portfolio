@@ -21,9 +21,9 @@
     </div>
 </p>
 
-<h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2> 
+<!-- <h2>My Articles <img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="30"/></h2>
 <p>1. <a href="https://medium.com/@m.manalliaquat/why-i-choose-react-ab215dffdb79">Why I choose React?</a></p>
-<p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p>
+<p>2. <a href="https://medium.com/swlh/cra-to-pwa-1e572207d7">CRA to PWA</a></p> -->
 
 <div>
     <table border="0">
